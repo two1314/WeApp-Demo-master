@@ -3,6 +3,4 @@
 * [开发文档](https://mp.weixin.qq.com/debug/wxadoc/introduction/index.html)
 
 
-* 截图
-
-![微信小程序官方Demo 截图](https://mp.weixin.qq.com/debug/wxadoc/dev/image/demo.png)
+这是微信官方提供的一个微信小程序的一个demo为了以后的学习和使用
